@@ -7,4 +7,4 @@ EL ARCHIVO EJERCICIO SCRIPTS plantea una base de datos con muchos datos redundan
  
  - El orden de ejecucion es 1. ejercicio_scripts --> 2. script_rollout --> 3. script_rollback
     
-Ejercicio útil para práctica de DDL y DML. Para revisar los objetivos de la práctica checkear el pdf
+   Ejercicio útil para práctica de DDL y DML. Para revisar los objetivos de la práctica checkear el pdf
